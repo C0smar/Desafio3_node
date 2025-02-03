@@ -25,7 +25,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 Si deseas clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
-git clone https://github.com/tu-usuario/like-me-desafio.git
+git clone https://github.com/C0smar/Desafio3_node.git
 cd like-me-desafio
 
 2. Instalar Dependencias
